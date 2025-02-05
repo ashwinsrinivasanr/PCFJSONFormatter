@@ -10,8 +10,6 @@ const buttonStyle = {
     color: 'white',
     border: 'none',
     padding: '10px 20px',
-    fontSize: '16px',
-    fontWeight: 'bold',
     borderRadius: '5px',
     cursor: 'pointer',
     transition: 'all 0.3s ease',
